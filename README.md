@@ -8,8 +8,8 @@ The project is built using Python and leverages popular libraries such as Flask,
 
 ## Collaborators
 
-- [Collaborator 1](https://github.com/Pranjal360Agarwal)
-- [Collaborator 2](https://github.com/Nikhils1206)
+- [Pranjal Agarwal](https://github.com/Pranjal360Agarwal)
+- [Nikhil Sahu](https://github.com/Nikhils1206)
 
 ## Project Description
 
@@ -43,27 +43,21 @@ The Movie Recommender System Project aims to enhance the movie-watching experien
    git clone https://github.com/your-username/movie-recommender.git
    cd movie-recommender
 
-
 2. Create and activate a virtual environment:
 
    ```bash
    python3 -m venv venv
    source venv/bin/activate
 
-
 3. Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
 
-
-
 4. Run the application:
 
    ```bash
    python app.py
-
-
 
 5. Open your browser and navigate to http://localhost:5000 to access the          Movie Recommender System.
 
