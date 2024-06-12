@@ -5,6 +5,7 @@ The Movie Recommender System Project is an implementation of a content-based rec
 The system provides a user-friendly interface where users can register, authenticate, and manage their profiles. They can search for movies, view movie details, ratings, and reviews, and submit their own ratings and reviews. The system also offers personalized movie recommendations tailored to each user's preferences.
 
 The project is built using Python and leverages popular libraries such as Flask, sci-kit-learn, and Pandas. It incorporates machine learning techniques to analyze movie features and generate relevant recommendations. The application is deployed on Heroku, allowing users to access the movie recommender system through a web interface.
+we use api of movieone to fetch the movies
 
 ## Collaborators
 
